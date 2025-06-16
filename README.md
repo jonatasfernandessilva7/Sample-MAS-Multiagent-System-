@@ -2,7 +2,7 @@
 
 This is a sample MAS.
 
-### The System Architecture
+# The System Architecture
 
 The system has three agents, namely:
 - Monitor Agent 
